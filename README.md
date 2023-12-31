@@ -1,3 +1,10 @@
+Node version : v16.17.0
+React version : v18.2.0
+
+How to start : npm start
+
+link deploy : https://frontend-dev-reactjs-1-yusron.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
